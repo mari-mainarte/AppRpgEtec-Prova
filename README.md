@@ -1,2 +1,4 @@
 # AppRpgEtec-Avalia-o
-Atividade avaliativa para a disciplina de PAMII. Projeto desenvolvido pelas alunas Mariana e Paola.
+Atividade avaliativa para a disciplina de PAMII. Projeto desenvolvido pela aluna Mariana.
+
+![Uploading image.png…]()
